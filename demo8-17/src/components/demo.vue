@@ -41,7 +41,6 @@
 				},1000);
 			},
 			func6(){
-				console.log(this.arr)
 				this.arr= []
 			},
 			func4(){
